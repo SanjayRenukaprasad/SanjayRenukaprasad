@@ -1,7 +1,15 @@
-![logo](https://github.com/SanjayRenukaprasad/SanjayRenukaprasad/raw/main/images/sbr_logo.png)
+<div align="center">
+<img src="./images/sbr_logo.png" alt="logo" width="300" />
+
+# sanjay bangalore renukaprasad
+
+<img src="./images/sbr_logo.png" alt="jayce" width="345" />
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-b-renukaprasad)
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brsanjayy@gmail.com)
+
+</div>
+
 
 &nbsp;
 
