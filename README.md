@@ -77,10 +77,12 @@ Full-stack platform connecting donors, volunteers and child welfare orgs. Zero p
 ---
 
 &nbsp;
-
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SanjayRenukaprasad&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/SanjayRenukaprasad)
 
 [![Visitors](https://komarev.com/ghpvc/?username=SanjayRenukaprasad&color=58a6ff&style=flat-square&label=visitors)](https://github.com/SanjayRenukaprasad)
+
+</div>
 
 &nbsp;
 
